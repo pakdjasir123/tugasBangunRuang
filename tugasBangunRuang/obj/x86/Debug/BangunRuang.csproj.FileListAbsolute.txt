@@ -1,0 +1,36 @@
+D:\Documents and Settings\Gilar\Local Settings\Application Data\Temporary Projects\BangunRuang\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Gilar\Local Settings\Application Data\Temporary Projects\BangunRuang\bin\Debug\BangunRuang.exe
+D:\Documents and Settings\Gilar\Local Settings\Application Data\Temporary Projects\BangunRuang\bin\Debug\BangunRuang.pdb
+D:\Documents and Settings\Gilar\Local Settings\Application Data\Temporary Projects\BangunRuang\obj\x86\Debug\BangunRuang.exe
+D:\Documents and Settings\Gilar\Local Settings\Application Data\Temporary Projects\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+G:\Temp\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.exe
+G:\Temp\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+G:\Temp\Bangun Ruang\BangunRuang\BangunRuang\bin\Debug\BangunRuang.exe
+G:\Temp\Bangun Ruang\BangunRuang\BangunRuang\bin\Debug\BangunRuang.pdb
+G:\Temp\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Gill\Kuliah\Semester 4\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.exe
+G:\Gill\Kuliah\Semester 4\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+D:\Kuliah\Semester IV\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.exe
+D:\Kuliah\Semester IV\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+D:\Kuliah\Semester IV\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\bin\Debug\BangunRuang.exe
+D:\Kuliah\Semester IV\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\bin\Debug\BangunRuang.pdb
+D:\Kuliah\Semester IV\Tugas\Pemrograman Lanjut\Bangun Ruang\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunDatar\BangunRuang\obj\x86\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunDatar\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunRuang\BangunRuang\bin\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunRuang\BangunRuang\bin\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LuasBangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LuasBangunRuang\BangunRuang\obj\x86\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LTBangunRuang\LTBangunRuang\obj\x86\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LTBangunRuang\LTBangunRuang\obj\x86\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LTBangunRuang\LTBangunRuang\bin\Debug\BangunRuang.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LTBangunRuang\LTBangunRuang\bin\Debug\BangunRuang.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LTBangunRuang\LTBangunRuang\obj\x86\Debug\BangunRuang.csprojResolveAssemblyReference.cache
+G:\TUTORIAL GITHUB\tugasBangunRuang\tugasBangunRuang\obj\x86\Debug\BangunRuang.exe
+G:\TUTORIAL GITHUB\tugasBangunRuang\tugasBangunRuang\obj\x86\Debug\BangunRuang.pdb
+G:\TUTORIAL GITHUB\tugasBangunRuang\tugasBangunRuang\bin\Debug\BangunRuang.exe
+G:\TUTORIAL GITHUB\tugasBangunRuang\tugasBangunRuang\bin\Debug\BangunRuang.pdb
+G:\TUTORIAL GITHUB\tugasBangunRuang\tugasBangunRuang\obj\x86\Debug\BangunRuang.csprojResolveAssemblyReference.cache
